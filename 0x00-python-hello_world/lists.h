@@ -36,7 +36,7 @@ root@e024474929d2:~/alx-higher_level_programming/0x00-python-hello_world# cat li
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for ALX project
+ * for Holberton project
  */
 typedef struct listint_s
 {
